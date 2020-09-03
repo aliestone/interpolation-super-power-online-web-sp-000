@@ -4,4 +4,4 @@ colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
   puts "The colors in the rainbow are": #{colors}
 end
 
-display_rainbow
+display_rainbow (colors)
