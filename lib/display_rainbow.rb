@@ -1,7 +1,7 @@
 # This is a method for displaying a rainbow 
 
-def display_rainbow (color)
-  puts "  ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']"
+colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+  puts "The colors in the rainbow are": #{colors}
 end
 
 display_rainbow
