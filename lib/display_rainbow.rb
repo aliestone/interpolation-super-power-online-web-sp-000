@@ -6,6 +6,6 @@ colors =
 def display_rainbow
   puts "{colors [0,1,2,3,4,5,6]}"
 
-display_rainbow (colors)
+display_rainbow
 end
 
